@@ -1,6 +1,7 @@
 # NewsAPI_Headlines
 
-The archihve of news headlines in different countries.
+This repository archihves headlines of different countries on a daily basis using NewsAPI.org.
+
 
 ## Credits
 
